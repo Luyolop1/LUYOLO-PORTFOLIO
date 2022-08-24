@@ -4,7 +4,25 @@
 			"path": "."
 		},
 		{
+			"path": "..\\templates\\templatemo_545_finance_business\\assets"
+		},
+		{
+			"path": "..\\templates\\templatemo_545_finance_business\\vendor"
+		},
+		{
+			"path": "..\\templates\\free-travel-website-template\\scss"
+		},
+		{
 			"path": "..\\..\\Documents\\projects\\luyolofreshdev\\luyolo.portfolio.html\\inc"
+		},
+		{
+			"path": "..\\templates\\free-travel-website-template\\css"
+		},
+		{
+			"path": "..\\templates\\free-travel-website-template\\js"
+		},
+		{
+			"path": "..\\templates\\free-travel-website-template\\lib"
 		}
 	],
 	"settings": {
